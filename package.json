@@ -1,0 +1,19 @@
+{
+  "name": "recursive-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dragosgn/recursive-javscript.git"
+  },
+  "author": "dragosgn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dragosgn/recursive-javscript/issues"
+  },
+  "homepage": "https://github.com/dragosgn/recursive-javscript#readme"
+}
