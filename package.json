@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "nodemon --exec babel-node src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +16,13 @@
   "bugs": {
     "url": "https://github.com/dragosgn/recursive-javscript/issues"
   },
-  "homepage": "https://github.com/dragosgn/recursive-javscript#readme"
+  "homepage": "https://github.com/dragosgn/recursive-javscript#readme",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "babel-cli": "^6.26.0"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.2.3",
+    "nodemon": "^1.18.9"
+  }
 }
