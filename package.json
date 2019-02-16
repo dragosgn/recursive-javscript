@@ -19,7 +19,8 @@
   "homepage": "https://github.com/dragosgn/recursive-javscript#readme",
   "dependencies": {
     "babel": "^6.23.0",
-    "babel-cli": "^6.26.0"
+    "babel-cli": "^6.26.0",
+    "prettier": "^1.16.0"
   },
   "devDependencies": {
     "@babel/core": "^7.2.2",
